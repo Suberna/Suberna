@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Suberna%20R%20S&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20and%20Data%20Science%20Engineer&descAlignY=55&descAlign=50" />
+<a href="https://portfolio-suberna.vercel.app">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Suberna%20R%20S&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20and%20Data%20Science%20Engineer&descAlignY=55&descAlign=50" alt="Click to Visit Portfolio" />
+</a>
 
 ### 🧠 Architecting Intelligence | 🛠️ Deploying Solutions
 
